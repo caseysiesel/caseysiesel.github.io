@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Publications &#8211; SaniPath</title>
+	<atom:link href="https://caseysiesel.github.io/tag/publications/feed/" rel="self" type="application/rss+xml" />
+	<link>https://caseysiesel.github.io/</link>
+	<description>Exposure Assessment Tool</description>
+	<lastBuildDate>
+	Mon, 27 Aug 2018 15:15:11 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>Public toilets and their customers in low-income Accra, Ghana</title>
+		<link>https://caseysiesel.github.io/2015/11/18/public-toilets-and-their-customers-in-low-income-accra-ghana/</link>
+				<pubDate>Wed, 18 Nov 2015 14:46:34 +0000</pubDate>
+		<dc:creator><![CDATA[Suraja]]></dc:creator>
+				<category><![CDATA[Publications]]></category>
+
+		<guid isPermaLink="false">https://caseysiesel.github.io/?p=21475</guid>
+				<description><![CDATA[<p>Authors: Dorothy Peprah, Kelly K Baker, Christine Moe, Katharine Robb, Nii Wellington, Habib Yakubu, and Clair Null Abstract: Public pay-per-use toilets are the only alternative to open defecation...</p>
+<p>The post <a rel="nofollow" href="https://caseysiesel.github.io/2015/11/18/public-toilets-and-their-customers-in-low-income-accra-ghana/">Public toilets and their customers in low-income Accra, Ghana</a> appeared first on <a rel="nofollow" href="https://caseysiesel.github.io/">SaniPath</a>.</p>
+]]></description>
+									</item>
+	</channel>
+</rss>

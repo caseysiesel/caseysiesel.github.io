@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>News &#8211; SaniPath</title>
+	<atom:link href="https://caseysiesel.github.io/category/news/feed/" rel="self" type="application/rss+xml" />
+	<link>https://caseysiesel.github.io/</link>
+	<description>Exposure Assessment Tool</description>
+	<lastBuildDate>
+	Mon, 27 Aug 2018 15:15:11 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>SaniPath Project Launch: Accra, Ghana</title>
+		<link>https://caseysiesel.github.io/2018/08/27/sanipath-project-launch-accra-ghana/</link>
+				<pubDate>Mon, 27 Aug 2018 15:15:11 +0000</pubDate>
+		<dc:creator><![CDATA[Casey Siesel]]></dc:creator>
+				<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">https://caseysiesel.github.io/?p=22116</guid>
+				<description><![CDATA[<p>In partnership with Training, Research and Networking for Development (TREND) Group, the SaniPath Project was launched in Accra, Ghana in...</p>
+<p>The post <a rel="nofollow" href="https://caseysiesel.github.io/2018/08/27/sanipath-project-launch-accra-ghana/">SaniPath Project Launch: Accra, Ghana</a> appeared first on <a rel="nofollow" href="https://caseysiesel.github.io/">SaniPath</a>.</p>
+]]></description>
+						<enclosure url="https://caseysiesel.github.io/wp-content/uploads/2018/08/94c229fc-a223-462f-bf2c-14c74f435b80.mp4" length="15336670" type="video/mp4" />
+			</item>
+		<item>
+		<title>SaniPath Project Launch: Kumasi, Ghana</title>
+		<link>https://caseysiesel.github.io/2018/08/27/sanipath-project-launch-kumasi-ghana/</link>
+				<pubDate>Mon, 27 Aug 2018 14:58:03 +0000</pubDate>
+		<dc:creator><![CDATA[Casey Siesel]]></dc:creator>
+				<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">https://caseysiesel.github.io/?p=22111</guid>
+				<description><![CDATA[<p>In partnership with Training, Research and Networking for Development (TREND) Group, the SaniPath Project was launched in Kumasi, Ghana in...</p>
+<p>The post <a rel="nofollow" href="https://caseysiesel.github.io/2018/08/27/sanipath-project-launch-kumasi-ghana/">SaniPath Project Launch: Kumasi, Ghana</a> appeared first on <a rel="nofollow" href="https://caseysiesel.github.io/">SaniPath</a>.</p>
+]]></description>
+						<enclosure url="https://caseysiesel.github.io/wp-content/uploads/2018/08/d4fca883-3cdb-4252-80d8-71990029ae9f.mp4" length="11501117" type="video/mp4" />
+			</item>
+		<item>
+		<title>Team Member Spotlight: David Berendes</title>
+		<link>https://caseysiesel.github.io/2015/11/18/team-member-spotlight-david-berendes/</link>
+				<pubDate>Wed, 18 Nov 2015 17:48:37 +0000</pubDate>
+		<dc:creator><![CDATA[Suraja]]></dc:creator>
+				<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">https://caseysiesel.github.io/?p=21490</guid>
+				<description><![CDATA[<p>Please have a look at this piece by the Rollins Department of Environmental Health on SaniPath&#8217;s David Berendes: In the...</p>
+<p>The post <a rel="nofollow" href="https://caseysiesel.github.io/2015/11/18/team-member-spotlight-david-berendes/">Team Member Spotlight: David Berendes</a> appeared first on <a rel="nofollow" href="https://caseysiesel.github.io/">SaniPath</a>.</p>
+]]></description>
+									</item>
+	</channel>
+</rss>

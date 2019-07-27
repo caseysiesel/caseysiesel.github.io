@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Policy Notes &#8211; SaniPath</title>
+	<atom:link href="https://caseysiesel.github.io/tag/policy-notes/feed/" rel="self" type="application/rss+xml" />
+	<link>https://caseysiesel.github.io/</link>
+	<description>Exposure Assessment Tool</description>
+	<lastBuildDate>
+	Mon, 27 Aug 2018 15:15:11 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>World Toilet Day Briefing Note</title>
+		<link>https://caseysiesel.github.io/2015/11/18/world-toilet-day-briefing-note/</link>
+				<pubDate>Wed, 18 Nov 2015 14:24:57 +0000</pubDate>
+		<dc:creator><![CDATA[Suraja]]></dc:creator>
+				<category><![CDATA[Policy Notes]]></category>
+
+		<guid isPermaLink="false">https://caseysiesel.github.io/?p=21470</guid>
+				<description><![CDATA[<p>Check out the takeaways from our field work in Accra and how it relates to World Toilet day. Click here...</p>
+<p>The post <a rel="nofollow" href="https://caseysiesel.github.io/2015/11/18/world-toilet-day-briefing-note/">World Toilet Day Briefing Note</a> appeared first on <a rel="nofollow" href="https://caseysiesel.github.io/">SaniPath</a>.</p>
+]]></description>
+									</item>
+	</channel>
+</rss>
